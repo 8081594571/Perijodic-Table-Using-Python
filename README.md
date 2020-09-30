@@ -1,1 +1,1 @@
-# Perijodic-Table-Using-Python
+# Periodic-Table-Using-Python
